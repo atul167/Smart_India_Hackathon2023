@@ -1,0 +1,441 @@
+Station_name,State,District,Agency_name,Date,level,lat,long,Telemetry
+Aandwa1,Uttar Pradesh,Praygraj,CGWB,2020-08-25,15.68,25.41666667,82.00416667,2
+Aat Garhi Sonra,Uttar Pradesh,Lucknow,CGWB,2020-08-25,13.5,27.08472222,80.72777778,2
+Achhalda,Uttar Pradesh,Auraiya,CGWB,2020-08-25,5.02,26.71166667,79.41194444,2
+Ahraula,Uttar Pradesh,Azamgarh,CGWB,2020-08-25,3.15,26.17638889,82.90416667,2
+Ahraura bhawani,Uttar Pradesh,Raibareli,CGWB,2020-08-25,1.45,26.49472222,81.34861111,2
+Ahrori,Uttar Pradesh,Hardoi,CGWB,2020-08-25,1.23,27.33194444,80.30888889,2
+Ajaipur,Uttar Pradesh,Ghazipur,CGWB,2020-08-25,2.48,25.45555556,83.73055556,2
+Akbarpur Pz-GWD NEW,Uttar Pradesh,Ambedkar Nagar,CGWB,2020-08-25,4.1,26.43611111,82.54361111,2
+Akodha,Uttar Pradesh,Allahabad,CGWB,2020-08-25,2.67,25.22500000,81.86250000,2
+Allahabad,Uttar Pradesh,Praygraj,CGWB,2020-08-25,6.44,25.45000000,81.97500000,2
+Amaniganj,Uttar Pradesh,Ayodhya,CGWB,2020-08-25,4.45,26.66472222,81.77916667,2
+Arya Nagar,Uttar Pradesh,Lucknow,CGWB,2020-08-25,19.03,26.83472222,80.91250000,2
+Asogapur,Uttar Pradesh,Kheri,CGWB,2020-08-25,1.7,27.89166667,80.95000000,2
+Asother,Uttar Pradesh,Fatehpur,CGWB,2020-08-25,2.01,25.77222222,80.90277778,2
+Atarra,Uttar Pradesh,Banda,CGWB,2020-08-25,1.31,25.27694444,80.55666667,2
+Atrampur,Uttar Pradesh,Allahabad,CGWB,2020-08-25,2.14,25.57083333,81.74166667,2
+Auras,Uttar Pradesh,Unnao,CGWB,2020-08-25,3.8,26.90416667,80.50416667,2
+Azamgarh,Uttar Pradesh,Azamgarh,CGWB,2020-08-25,5.45,26.04166667,83.16666667,2
+Azmatnagar,Uttar Pradesh,Unnao,CGWB,2020-08-25,8.11,26.73472222,80.46583333,2
+Baba ki kuti,Uttar Pradesh,Barabanki,CGWB,2020-08-25,1.24,27.18666667,81.10833333,2
+Babhani,Uttar Pradesh,Sonbhadra,CGWB,2020-08-25,3.19,23.95388889,83.07916667,2
+Babhnauli,Uttar Pradesh,Ballia,CGWB,2020-08-25,0.19,25.82500000,84.21388889,2
+Babuganj,Uttar Pradesh,Sultanpur,CGWB,2020-08-25,0.54,26.36111111,82.12277778,2
+Badausa,Uttar Pradesh,Banda,CGWB,2020-08-25,2.54,25.24166667,80.65000000,2
+Badehan,Uttar Pradesh,Banda,CGWB,2020-08-25,9.33,25.13500000,80.39333333,2
+Badgaon,Uttar Pradesh,Sultanpur,CGWB,2020-08-25,9.8,26.05583333,81.80055556,2
+Badhni,Uttar Pradesh,Siddharth Nagar,CGWB,2020-08-25,1.18,27.49861111,82.78333333,2
+Baghpur,Uttar Pradesh,Kanpur Dehat,CGWB,2020-08-25,5.58,26.51888889,80.12916667,2
+Bahoranpur,Uttar Pradesh,Sitapur,CGWB,2020-08-25,1.96,27.37194444,81.23194444,2
+Bahrapur,Uttar Pradesh,Azamgarh,CGWB,2020-08-25,1.9,25.92500000,83.05000000,2
+Bahua,Uttar Pradesh,Fatehpur,CGWB,2020-08-25,12.64,25.84166667,80.62500000,2
+Bahurawa,Uttar Pradesh,Sultanpur,CGWB,2020-08-25,0.95,26.48333333,81.92361111,2
+Bairadih,Uttar Pradesh,Azamgarh,CGWB,2020-08-25,3.24,25.94305556,82.98750000,2
+Bairi,Uttar Pradesh,Allahabad,CGWB,2020-08-25,0.04,25.11666667,81.67500000,2
+Bairia,Uttar Pradesh,Ballia,CGWB,2020-08-25,1.56,25.78333333,84.45416667,2
+Bairpan,Uttar Pradesh,Sonbhadra,CGWB,2020-08-25,1.8,24.20972222,82.87361111,2
+Baisanpurwa,Uttar Pradesh,Bahraich,CGWB,2020-08-25,0.92,27.53833333,81.43833333,2
+Bakarganj,Uttar Pradesh,Ayodhya,CGWB,2020-08-25,1.33,26.68472222,82.30833333,2
+Balesara,Uttar Pradesh,Ballia,CGWB,2020-08-25,1.3,25.86500000,83.98472222,2
+Ballia,Uttar Pradesh,Ballia,CGWB,2020-08-25,2.58,25.75000000,84.16666667,2
+Balrampur1,Uttar Pradesh,Balrampur,CGWB,2020-08-25,3.02,27.41333333,82.18833333,2
+Banda,Uttar Pradesh,Banda,CGWB,2020-08-25,9.04,25.48333333,80.32083333,2
+Bandhamau,Uttar Pradesh,Auraiya,CGWB,2020-08-25,4.66,26.83000000,79.59583333,2
+Bankatwa,Uttar Pradesh,Balrampur,CGWB,2020-08-25,9.2,27.73694444,82.25277778,2
+Bansdih New,Uttar Pradesh,Ballia,CGWB,2020-08-25,0.51,25.88638889,84.20638889,2
+Bansi1,Uttar Pradesh,Siddharth Nagar,CGWB,2020-08-25,0.55,27.16666667,82.91666667,2
+Bara,Uttar Pradesh,Allahabad,CGWB,2020-08-25,1.45,25.25000000,81.71666667,2
+Barabanki pz 1,Uttar Pradesh,Barabanki,CGWB,2020-08-25,5.72,26.92888889,81.17222222,2
+Baradari,Uttar Pradesh,Kanpur Nagar,CGWB,2020-08-25,5.63,26.31388889,80.31194444,2
+Baraut1,Uttar Pradesh,Praygraj,CGWB,2020-08-25,0.91,25.34027778,82.27500000,2
+Baresar,Uttar Pradesh,Ghazipur,CGWB,2020-08-25,5.3,25.39166667,83.56666667,2
+Bargaini,Uttar Pradesh,Banda,CGWB,2020-08-25,9.01,25.54166667,80.42500000,2
+Barganwar,Uttar Pradesh,Hardoi,CGWB,2020-08-25,3.99,27.48750000,80.15472222,2
+Barkhani Pz-GWD,Uttar Pradesh,Hardoi,CGWB,2020-08-25,8.13,27.61583333,79.79583333,2
+Barokhar,Uttar Pradesh,Allahabad,CGWB,2020-08-25,8.22,24.89583333,81.94583333,2
+Barwa,Uttar Pradesh,Fatehpur,CGWB,2020-08-25,29.76,25.95000000,80.43333333,2
+Barwarikalaan,Uttar Pradesh,Allahabad,CGWB,2020-08-25,0.88,24.93333333,82.14583333,2
+Basti,Uttar Pradesh,Basti,CGWB,2020-08-25,3.1,26.80000000,82.73333333,2
+Basundhara,Uttar Pradesh,Auraiya,CGWB,2020-08-25,1.87,26.59500000,79.53333333,2
+Bawan Pz-GWD,Uttar Pradesh,Hardoi,CGWB,2020-08-25,2.04,27.39888889,79.99583333,2
+Behta,Uttar Pradesh,Sitapur,CGWB,2020-08-25,1.38,27.73888889,81.14888889,2
+Bela,Uttar Pradesh,Fatehpur,CGWB,2020-08-25,2.06,25.95833333,81.03611111,2
+Bela tal,Uttar Pradesh,Mahoba,CGWB,2020-08-25,4.63,25.27027778,79.57777778,2
+Belwana,Uttar Pradesh,Azamgarh,CGWB,2020-08-25,0.65,25.89444444,82.81666667,2
+Bewar,Uttar Pradesh,Hamirpur,CGWB,2020-08-25,13.52,25.76111111,79.93000000,2
+Bhadar,Uttar Pradesh,Sultanpur,CGWB,2020-08-25,5.73,26.17166667,82.05194444,2
+Bhadayian Pz-GWD,Uttar Pradesh,Sultanpur,CGWB,2020-08-25,13.0,26.17750000,82.16083333,2
+Bhagwan nagar,Uttar Pradesh,Sonbhadra,CGWB,2020-08-25,4.41,24.37916667,83.05416667,2
+Bhagwanpur,Uttar Pradesh,Shrawasti,CGWB,2020-08-25,0.59,27.51666667,81.93194444,2
+Bhaisana,Uttar Pradesh,Kanpur Nagar,CGWB,2020-08-25,1.91,26.63500000,80.07472222,2
+Bhakraulikapurw,Uttar Pradesh,Bahraich,CGWB,2020-08-25,2.32,27.30416667,81.55972222,2
+Bhanpur,Uttar Pradesh,Basti,CGWB,2020-08-25,0.63,27.01805556,82.66805556,2
+Bhatgaon,Uttar Pradesh,Sultanpur,CGWB,2020-08-25,4.3,26.30555556,81.65833333,2
+Bhatoiya,Uttar Pradesh,Lucknow,CGWB,2020-08-25,10.11,26.94861111,80.63750000,2
+Bhaunri,Uttar Pradesh,Chitrakoot,CGWB,2020-08-25,7.66,25.22500000,81.04027778,2
+Bhauriganj,Uttar Pradesh,Gonda,CGWB,2020-08-25,1.93,27.01250000,81.73611111,2
+Bhawanigarh,Uttar Pradesh,Raibareli,CGWB,2020-08-25,0.38,26.55000000,81.23333333,2
+Bhikamjot,Uttar Pradesh,Basti,CGWB,2020-08-25,1.42,26.80416667,82.29583333,2
+Bhim pashim,Uttar Pradesh,Sultanpur,CGWB,2020-08-25,0.8,26.16750000,81.90861111,2
+Bhiti-New,Uttar Pradesh,Ambedkar Nagar,CGWB,2020-08-25,2.68,26.49166667,82.30833333,2
+Bhiwal,Uttar Pradesh,Barabanki,CGWB,2020-08-25,0.68,26.69722222,81.24861111,2
+Bhopatpur,Uttar Pradesh,Bahraich,CGWB,2020-08-25,8.07,27.88333333,81.51388889,2
+Bhujanga,Uttar Pradesh,Shrawasti,CGWB,2020-08-25,1.32,27.66861111,82.00583333,2
+Bibipur Khatauli,Uttar Pradesh,Azamgarh,CGWB,2020-08-25,1.36,26.13611111,83.09722222,2
+Bidhnu,Uttar Pradesh,Kanpur Nagar,CGWB,2020-08-25,0.43,26.31944444,80.23888889,2
+Bijnor,Uttar Pradesh,Lucknow,CGWB,2020-08-25,11.6,26.73888889,80.74027778,2
+Bijua,Uttar Pradesh,Kheri,CGWB,2020-08-25,1.23,28.28805556,80.60500000,2
+Bindki1,Uttar Pradesh,Fatehpur,CGWB,2020-08-25,1.73,26.03611111,80.58000000,2
+Binjh,Uttar Pradesh,Raibareli,CGWB,2020-08-25,12.31,26.33638889,81.03388889,2
+Birdpur,Uttar Pradesh,Siddharth Nagar,CGWB,2020-08-25,1.17,27.36805556,83.11805556,2
+Birpur katra,Uttar Pradesh,Gonda,CGWB,2020-08-25,1.29,27.19722222,81.76666667,2
+Bisanda,Uttar Pradesh,Banda,CGWB,2020-08-25,2.32,25.39305556,80.62222222,2
+Bithoor-Nganj,Uttar Pradesh,Kanpur Nagar,CGWB,2020-08-25,9.62,26.59750000,80.27166667,2
+Biutmani,Uttar Pradesh,Sitapur,CGWB,2020-08-25,1.63,27.55500000,80.95333333,2
+Captainganj1,Uttar Pradesh,Basti,CGWB,2020-08-25,3.33,26.76666667,82.55638889,2
+Chakalvanshi,Uttar Pradesh,Unnao,CGWB,2020-08-25,1.06,26.64166667,80.46111111,2
+Chakrajafar,Uttar Pradesh,Chitrakoot,CGWB,2020-08-25,10.28,25.26000000,80.92166667,2
+Chamlapur,Uttar Pradesh,Kheri,CGWB,2020-08-25,0.33,27.91333333,80.88333333,2
+Chandan chowki,Uttar Pradesh,Kheri,CGWB,2020-08-25,2.17,28.52777778,80.76250000,2
+Chandanpur,Uttar Pradesh,Balrampur,CGWB,2020-08-25,2.43,27.66388889,82.65722222,2
+Chandrapal Kheri,Uttar Pradesh,Saharanpur,CGWB,2020-08-25,15.45,29.92500000,77.31666667,2
+Chapiya,Uttar Pradesh,Gonda,CGWB,2020-08-25,0.7,26.98000000,82.38944444,2
+Charkhari,Uttar Pradesh,Mahoba,CGWB,2020-08-25,1.55,25.40000000,79.75000000,2
+Chatesar pz GWD,Uttar Pradesh,Mahoba,CGWB,2020-08-25,8.88,25.41611111,79.49361111,2
+Chauapur,Uttar Pradesh,Kheri,CGWB,2020-08-25,0.48,27.98333333,80.90000000,2
+Chaubepur1,Uttar Pradesh,Kanpur Nagar,CGWB,2020-08-25,11.25,26.61666667,80.18750000,2
+Chaubisi,Uttar Pradesh,Barabanki,CGWB,2020-08-25,2.53,26.57333333,81.43027778,2
+Chauraha dusti,Uttar Pradesh,Raibareli,CGWB,2020-08-25,0.73,26.31666667,81.35000000,2
+Chaure bazar,Uttar Pradesh,Ayodhya,CGWB,2020-08-25,4.6,26.48333333,82.14166667,2
+Cheek daadar,Uttar Pradesh,Raibareli,CGWB,2020-08-25,2.85,26.27083333,81.28861111,2
+Chibramau Pz-GWD,Uttar Pradesh,Kannauj,CGWB,2020-08-25,21.41,27.13333333,79.50000000,2
+Chilihia,Uttar Pradesh,Siddharth Nagar,CGWB,2020-08-25,0.6,27.26666667,82.87500000,2
+Chilkahar New,Uttar Pradesh,Ballia,CGWB,2020-08-25,0.8,25.81972222,83.97111111,2
+Chilla,Uttar Pradesh,Allahabad,CGWB,2020-08-25,9.19,25.30000000,81.71666667,2
+Chitbargaon,Uttar Pradesh,Ballia,CGWB,2020-08-25,0.42,25.74444444,84.01027778,2
+Chiwalaha,Uttar Pradesh,Chitrakoot,CGWB,2020-08-25,9.72,25.20000000,81.40833333,2
+Chobepur,Uttar Pradesh,Varanasi,CGWB,2020-08-25,1.48,25.45000000,83.08666667,2
+Cholapur1,Uttar Pradesh,Varanasi,CGWB,2020-08-25,8.0,25.46888889,83.00888889,2
+Chopan,Uttar Pradesh,Sonbhadra,CGWB,2020-08-25,2.41,24.02222222,83.02638889,2
+Chota Mawana Pz,Uttar Pradesh,Meerut,CGWB,2020-08-25,11.81,29.09166667,77.86111111,2
+Dalan chapra,Uttar Pradesh,Ballia,CGWB,2020-08-25,1.17,25.73333333,84.51666667,2
+Dalel nagar rly,Uttar Pradesh,Hardoi,CGWB,2020-08-25,3.35,27.11944444,80.42138889,2
+Datauli chanda,Uttar Pradesh,Barabanki,CGWB,2020-08-25,11.1,26.63750000,81.35833333,2
+Defence Colony Pz,Uttar Pradesh,Kanpur Nagar,CGWB,2020-08-25,41.49,26.42638889,80.39805556,2
+Del panderwa,Uttar Pradesh,Hardoi,CGWB,2020-08-25,0.6,27.76111111,80.20138889,2
+Deogaon,Uttar Pradesh,Azamgarh,CGWB,2020-08-25,0.0,25.75833333,82.99166667,2
+Deokalia,Uttar Pradesh,Sitapur,CGWB,2020-08-25,5.01,27.44444444,81.02833333,2
+Deoria,Uttar Pradesh,Ghazipur,CGWB,2020-08-25,2.04,25.48055556,83.57500000,2
+Deoria1,Uttar Pradesh,Balrampur,CGWB,2020-08-25,2.83,27.49583333,82.08611111,2
+Dewa,Uttar Pradesh,Barabanki,CGWB,2020-08-25,2.13,27.02666667,81.17833333,2
+Dhagwan,Uttar Pradesh,Hamirpur,CGWB,2020-08-25,0.8,25.83944444,79.64083333,2
+Dhaula Kuan,Uttar Pradesh,Saharanpur,CGWB,2020-08-25,5.24,30.13333333,77.71666667,2
+Dhobia,Uttar Pradesh,Hardoi,CGWB,2020-08-25,6.02,27.63888889,80.28444444,2
+Dhonda ka purwa,Uttar Pradesh,Raibareli,CGWB,2020-08-25,1.35,26.31111111,81.37333333,2
+Dhorighat,Uttar Pradesh,Mau,CGWB,2020-08-25,0.63,26.25000000,83.51250000,2
+Dhoudhi,Uttar Pradesh,Sitapur,CGWB,2020-08-25,2.79,27.60833333,80.81250000,2
+Dhrtidand1,Uttar Pradesh,Sonbhadra,CGWB,2020-08-25,5.08,24.16666667,82.97777778,2
+Dikauli,Uttar Pradesh,Shrawasti,CGWB,2020-08-25,1.22,27.64861111,81.73333333,2
+Dildar nagar,Uttar Pradesh,Ghazipur,CGWB,2020-08-25,0.85,25.45000000,83.66000000,2
+Domapur,Uttar Pradesh,Raibareli,CGWB,2020-08-25,15.42,26.25194444,81.00194444,2
+Dudhi,Uttar Pradesh,Sonbhadra,CGWB,2020-08-25,0.33,24.23083333,83.23472222,2
+Dudhwa f.r.h.,Uttar Pradesh,Kheri,CGWB,2020-08-25,7.76,28.48888889,80.64944444,2
+Dumariaganj,Uttar Pradesh,Siddharth Nagar,CGWB,2020-08-25,1.01,27.20000000,82.65000000,2
+Fatehganj,Uttar Pradesh,Lucknow,CGWB,2020-08-25,16.42,26.82777778,80.81527778,2
+Fatehpur (new),Uttar Pradesh,Barabanki,CGWB,2020-08-25,2.04,27.16666667,81.21666667,2
+Fatehpur PZ Gwd,Uttar Pradesh,Fatehpur,CGWB,2020-08-25,11.09,25.95194444,80.79583333,2
+Fursatganj,Uttar Pradesh,Raibareli,CGWB,2020-08-25,0.97,26.25833333,81.35277778,2
+Gadwa Fort,Uttar Pradesh,Allahabad,CGWB,2020-08-25,3.0,25.19583333,81.62777778,2
+Gahmar,Uttar Pradesh,Ghazipur,CGWB,2020-08-25,2.26,25.46944444,83.83611111,2
+Gaighat,Uttar Pradesh,Bahraich,CGWB,2020-08-25,1.35,27.98333333,81.41666667,2
+Gainsari,Uttar Pradesh,Balrampur,CGWB,2020-08-25,0.85,27.53750000,82.53750000,2
+Gangau,Uttar Pradesh,Hardoi,CGWB,2020-08-25,0.41,27.07138889,80.41694444,2
+Gangnar,Uttar Pradesh,Balrampur,CGWB,2020-08-25,1.91,27.45000000,82.28472222,2
+Ganj moradabad,Uttar Pradesh,Unnao,CGWB,2020-08-25,11.6,26.95833333,80.18888889,2
+Gara,Uttar Pradesh,Sonbhadra,CGWB,2020-08-25,7.47,24.20750000,82.98805556,2
+Garhmukteshwar-Pz,Uttar Pradesh,Firozabad,CGWB,2020-08-25,14.6,28.78583333,78.07916667,2
+Garwar,Uttar Pradesh,Ballia,CGWB,2020-08-25,0.48,25.83333333,84.03333333,2
+Gauhania,Uttar Pradesh,Allahabad,CGWB,2020-08-25,1.22,25.31666667,81.83333333,2
+Gaura crossing,Uttar Pradesh,Balrampur,CGWB,2020-08-25,0.7,27.41388889,82.41388889,2
+Gauriganj new -2,Uttar Pradesh,Sultanpur,CGWB,2020-08-25,1.62,26.20277778,81.69166667,2
+Gazipur New,Uttar Pradesh,Fatehpur,CGWB,2020-08-25,10.56,25.80222222,80.75416667,2
+Ghazipur church,Uttar Pradesh,Ghazipur,CGWB,2020-08-25,2.96,25.57638889,83.56333333,2
+Ghazipur  Sadar new,Uttar Pradesh,Ghazipur,CGWB,2020-08-25,0.85,25.56750000,83.56000000,2
+Ghazipur (Urban),Uttar Pradesh,Ghazipur,CGWB,2020-08-25,0.9,25.57916667,83.55972222,2
+Ghoose,Uttar Pradesh,Allahabad,CGWB,2020-08-25,0.76,24.87916667,82.01666667,2
+Ghorawal1,Uttar Pradesh,Sonbhadra,CGWB,2020-08-25,1.46,24.75777778,82.78055556,2
+Ghosi,Uttar Pradesh,Mau,CGWB,2020-08-25,0.0,26.11666667,83.54166667,2
+Ghuna,Uttar Pradesh,Saharanpur,CGWB,2020-08-25,1.43,30.05833333,77.59166667,2
+Girwan,Uttar Pradesh,Banda,CGWB,2020-08-25,0.36,25.31472222,80.39166667,2
+Gonda (Urban),Uttar Pradesh,Gonda,CGWB,2020-08-25,6.42,27.11666667,81.97833333,2
+Gopalipur,Uttar Pradesh,Raibareli,CGWB,2020-08-25,2.42,26.10833333,81.00833333,2
+Gopamau,Uttar Pradesh,Hardoi,CGWB,2020-08-25,6.89,27.53194444,80.28611111,2
+Goriabad,Uttar Pradesh,Sultanpur,CGWB,2020-08-25,0.2,26.32916667,81.57777778,2
+Gosaiganj Pz-GWD,Uttar Pradesh,Ayodhya,CGWB,2020-08-25,2.45,26.58250000,82.38527778,2
+Gutauna,Uttar Pradesh,Barabanki,CGWB,2020-08-25,1.03,26.62222222,81.34166667,2
+Gyanpur,Uttar Pradesh,Sant Ravidas Nagar,CGWB,2020-08-25,1.25,25.33333333,82.47666667,2
+Handia,Uttar Pradesh,Praygraj,CGWB,2020-08-25,0.45,25.36527778,82.18611111,2
+Hapur-Pz,Uttar Pradesh,Ghaziabad,CGWB,2020-08-25,19.36,28.72333333,77.80583333,2
+Haraiya,Uttar Pradesh,Basti,CGWB,2020-08-25,1.8,26.80000000,82.46666667,2
+Harchandpur,Uttar Pradesh,Raibareli,CGWB,2020-08-25,6.8,26.34861111,81.17361111,2
+Hargaon,Uttar Pradesh,Sitapur,CGWB,2020-08-25,3.66,27.65416667,80.73611111,2
+Harriaya bazar,Uttar Pradesh,Balrampur,CGWB,2020-08-25,1.72,27.65361111,82.28083333,2
+Haseran Pz-GWD,Uttar Pradesh,Kannauj,CGWB,2020-08-25,0.36,26.91777778,79.58000000,2
+Hasewan,Uttar Pradesh,Unnao,CGWB,2020-08-25,1.45,26.76388889,80.57500000,2
+Hastinapur 1,Uttar Pradesh,Meerut,CGWB,2020-08-25,10.26,29.12500000,78.00000000,2
+Hasulia,Uttar Pradesh,Auraiya,CGWB,2020-08-25,8.01,26.51250000,79.38055556,2
+Hatinala,Uttar Pradesh,Sonbhadra,CGWB,2020-08-25,11.36,24.05000000,83.10000000,2
+Holagarh,Uttar Pradesh,Allahabad,CGWB,2020-08-25,2.07,25.64166667,81.77222222,2
+Hunsepur,Uttar Pradesh,Raibareli,CGWB,2020-08-25,11.7,26.26777778,80.98500000,2
+Imamganj,Uttar Pradesh,Allahabad,CGWB,2020-08-25,1.27,25.40555556,82.29583333,2
+Iradat nagar,Uttar Pradesh,Allahabad,CGWB,2020-08-25,15.39,25.32500000,81.81666667,2
+Itaunja,Uttar Pradesh,Lucknow,CGWB,2020-08-25,10.81,27.08333333,80.87638889,2
+ITAUNJA,Uttar Pradesh,Lucknow,CGWB,2020-08-25,11.31,27.08333333,80.89166667,2
+Jagatpur,Uttar Pradesh,Raibareli,CGWB,2020-08-25,1.7,26.05583333,81.27500000,2
+Jagdishpur2,Uttar Pradesh,Sultanpur,CGWB,2020-08-25,10.95,26.45833333,81.63333333,2
+Jahangirabad,Uttar Pradesh,Sitapur,CGWB,2020-08-25,0.89,27.52083333,81.10500000,2
+Jais,Uttar Pradesh,Raibareli,CGWB,2020-08-25,0.98,26.25166667,81.53500000,2
+Jaitpur NEW,Uttar Pradesh,Mahoba,CGWB,2020-08-25,4.31,25.25416667,79.56500000,2
+Jalalabad Pz-GWD,Uttar Pradesh,Kannauj,CGWB,2020-08-25,23.86,27.10027778,79.77750000,2
+Jamuaun,Uttar Pradesh,Ballia,CGWB,2020-08-25,1.06,26.05194444,83.86083333,2
+Janapur,Uttar Pradesh,Sultanpur,CGWB,2020-08-25,1.83,26.36388889,81.58750000,2
+Jarha,Uttar Pradesh,Sonbhadra,CGWB,2020-08-25,3.47,24.00777778,82.90333333,2
+Jarwa,Uttar Pradesh,Balrampur,CGWB,2020-08-25,8.0,27.65500000,82.52333333,2
+Jarwal1,Uttar Pradesh,Bahraich,CGWB,2020-08-25,1.6,27.10888889,81.50888889,2
+Jaunra,Uttar Pradesh,Kanpur Dehat,CGWB,2020-08-25,3.84,26.48194444,79.68555556,2
+Jejawali,Uttar Pradesh,Mau,CGWB,2020-08-25,1.32,26.17638889,83.65694444,2
+Jhandi Raj,Uttar Pradesh,Kheri,CGWB,2020-08-25,2.79,28.18305556,80.84583333,2
+Jikhan(narsara),Uttar Pradesh,Varanasi,CGWB,2020-08-25,2.8,25.19305556,82.84166667,2
+Jorwara,Uttar Pradesh,Chitrakoot,CGWB,2020-08-25,4.54,25.24861111,81.06250000,2
+Kabirpur,Uttar Pradesh,Ghazipur,CGWB,2020-08-25,0.93,25.80833333,83.55416667,2
+Kachauna,Uttar Pradesh,Hardoi,CGWB,2020-08-25,0.99,27.15833333,80.34166667,2
+Kachauna (GWD PZ),Uttar Pradesh,Hardoi,CGWB,2020-08-25,1.13,27.15861111,80.34055556,2
+Kachunda,Uttar Pradesh,Raibareli,CGWB,2020-08-25,1.15,26.30833333,81.25833333,2
+Kadari,Uttar Pradesh,Kanpur Dehat,CGWB,2020-08-25,3.62,26.22861111,79.97861111,2
+Kadipur,Uttar Pradesh,Sultanpur,CGWB,2020-08-25,8.35,26.16666667,82.37555556,2
+Kaili Pz,Uttar Pradesh,Meerut,CGWB,2020-08-25,22.16,28.79027778,77.75972222,2
+Kainjari,Uttar Pradesh,Kanpur Dehat,CGWB,2020-08-25,5.77,26.60888889,79.88750000,2
+Kaisarganj PZ (GWD),Uttar Pradesh,Barabanki,CGWB,2020-08-25,7.14,26.73333333,81.31722222,2
+Kajhai,Uttar Pradesh,Siddharth Nagar,CGWB,2020-08-25,4.79,27.22833333,82.98333333,2
+Kalkeshwar temp,Uttar Pradesh,Barabanki,CGWB,2020-08-25,8.73,26.75000000,81.48333333,2
+Kalwari,Uttar Pradesh,Basti,CGWB,2020-08-25,1.25,26.63333333,82.69166667,2
+Kamalpur Pz,Uttar Pradesh,Muzaffarnagar,CGWB,2020-08-25,8.79,29.62500000,77.14666667,2
+Kapurpur,Uttar Pradesh,Bahraich,CGWB,2020-08-25,0.83,27.55555556,81.43888889,2
+Karauna,Uttar Pradesh,Sitapur,CGWB,2020-08-25,11.37,27.37638889,80.60972222,2
+Karchhana,Uttar Pradesh,Praygraj,CGWB,2020-08-25,10.58,25.28333333,81.93833333,2
+Karimuddinpur,Uttar Pradesh,Ghazipur,CGWB,2020-08-25,0.78,25.69027778,83.85277778,2
+Karnailganj PZ (GWD),Uttar Pradesh,Gonda,CGWB,2020-08-25,1.87,27.13111111,81.70305556,2
+Karsandia kalan,Uttar Pradesh,Azamgarh,CGWB,2020-08-25,0.84,25.97333333,82.77500000,2
+Karwi,Uttar Pradesh,Chitrakoot,CGWB,2020-08-25,6.03,25.20833333,80.92500000,2
+Kasarua,Uttar Pradesh,Praygraj,CGWB,2020-08-25,16.55,25.47000000,81.96666667,2
+Kashipura,Uttar Pradesh,Mahoba,CGWB,2020-08-25,5.53,25.35333333,79.30138889,2
+Katarniaghat,Uttar Pradesh,Bahraich,CGWB,2020-08-25,1.08,28.33333333,81.13361111,2
+Katehari,Uttar Pradesh,Ambedkar Nagar,CGWB,2020-08-25,2.05,26.50000000,82.48333333,2
+Katghar,Uttar Pradesh,Raibareli,CGWB,2020-08-25,1.71,26.15138889,81.14166667,2
+Kazi Dewar,Uttar Pradesh,Gonda,CGWB,2020-08-25,1.66,27.06666667,82.11666667,2
+Kesharpur,Uttar Pradesh,Ambedkar Nagar,CGWB,2020-08-25,1.29,26.44166667,82.67361111,2
+Ketanpurwa,Uttar Pradesh,Raibareli,CGWB,2020-08-25,4.53,26.27083333,80.89166667,2
+Khajurahat,Uttar Pradesh,Ayodhya,CGWB,2020-08-25,8.5,26.53833333,82.13666667,2
+Khaluhat1,Uttar Pradesh,Sultanpur,CGWB,2020-08-25,1.71,26.24027778,82.31111111,2
+Khamaria,Uttar Pradesh,Sitapur,CGWB,2020-08-25,3.18,27.37666667,80.90472222,2
+Khanna,Uttar Pradesh,Hamirpur,CGWB,2020-08-25,5.24,25.56388889,80.06777778,2
+Khaptia kheri,Uttar Pradesh,Allahabad,CGWB,2020-08-25,1.38,25.07083333,81.77916667,2
+Kharauan jat,Uttar Pradesh,Basti,CGWB,2020-08-25,1.85,26.69166667,82.68333333,2
+Kharihani,Uttar Pradesh,Azamgarh,CGWB,2020-08-25,3.0,25.76944444,83.16250000,2
+Kharni Pz-GWD,Uttar Pradesh,Kannauj,CGWB,2020-08-25,5.05,26.97833333,79.49500000,2
+Kharsanda,Uttar Pradesh,Ballia,CGWB,2020-08-25,0.82,25.93555556,84.08333333,2
+Khekhra Pz,Uttar Pradesh,Baghpat,CGWB,2020-08-25,27.29,28.87361111,77.27500000,2
+Kheron PZ (GWD),Uttar Pradesh,Raibareli,CGWB,2020-08-25,6.63,26.28666667,80.94000000,2
+Khhurand,Uttar Pradesh,Banda,CGWB,2020-08-25,0.0,25.37222222,80.47500000,2
+Khutahna,Uttar Pradesh,Sultanpur,CGWB,2020-08-25,2.4,26.40000000,81.66666667,2
+Kitlupur,Uttar Pradesh,Barabanki,CGWB,2020-08-25,2.99,27.10277778,81.19027778,2
+Koirauna,Uttar Pradesh,Sant Ravidas Nagar,CGWB,2020-08-25,8.6,25.29722222,82.31250000,2
+Koraon,Uttar Pradesh,Allahabad,CGWB,2020-08-25,0.18,25.01666667,82.06250000,2
+Kotra Khurd,Uttar Pradesh,Sultanpur,CGWB,2020-08-25,5.38,26.09388889,82.28722222,2
+Kotwa sarai,Uttar Pradesh,Barabanki,CGWB,2020-08-25,3.69,26.83333333,81.47500000,2
+Kulpahar1 New,Uttar Pradesh,Mahoba,CGWB,2020-08-25,2.1,25.32583333,79.63500000,2
+Kulpahar2,Uttar Pradesh,Mahoba,CGWB,2020-08-25,6.74,25.31666667,79.65000000,2
+Kumbhi ka purwa,Uttar Pradesh,Raibareli,CGWB,2020-08-25,2.3,26.56805556,81.26583333,2
+Kumrahawan,Uttar Pradesh,Lucknow,CGWB,2020-08-25,2.62,27.08333333,80.97222222,2
+Kunetha,Uttar Pradesh,Hamirpur,CGWB,2020-08-25,2.92,25.64833333,79.97666667,2
+Kurwar,Uttar Pradesh,Sultanpur,CGWB,2020-08-25,4.96,26.35833333,81.97500000,2
+Kusitali,Uttar Pradesh,Sultanpur,CGWB,2020-08-25,2.0,26.17388889,81.76222222,2
+Kutta,Uttar Pradesh,Sultanpur,CGWB,2020-08-25,2.17,26.44722222,82.01666667,2
+Ladiri bazar,Uttar Pradesh,Allahabad,CGWB,2020-08-25,0.92,25.00000000,81.92916667,2
+Lalauli,Uttar Pradesh,Fatehpur,CGWB,2020-08-25,9.09,25.80555556,80.54861111,2
+Lalpur,Uttar Pradesh,Allahabad,CGWB,2020-08-25,2.58,25.26666667,81.61666667,2
+Lambua Pz-GWD,Uttar Pradesh,Sultanpur,CGWB,2020-08-25,3.25,26.14000000,82.23000000,2
+Langerpur,Uttar Pradesh,Azamgarh,CGWB,2020-08-25,2.06,26.20555556,83.21805556,2
+Laxmanganjbazar,Uttar Pradesh,Raibareli,CGWB,2020-08-25,0.4,26.15000000,81.35833333,2
+Laxman nagar,Uttar Pradesh,Shrawasti,CGWB,2020-08-25,5.0,27.67500000,81.87500000,2
+Lu New Campus,Uttar Pradesh,Lucknow,CGWB,2020-08-25,21.66,26.90833333,80.94305556,2
+MachchretaPz-GWD,Uttar Pradesh,Sitapur,CGWB,2020-08-25,9.57,27.42194444,80.64194444,2
+Machhara Shallowpz,Uttar Pradesh,Meerut,CGWB,2020-08-25,12.45,28.90138889,77.89305556,2
+Madayan,Uttar Pradesh,Azamgarh,CGWB,2020-08-25,1.2,25.78472222,83.07222222,2
+Madhopur,Uttar Pradesh,Ayodhya,CGWB,2020-08-25,1.1,26.66666667,82.12500000,2
+Madora chowki,Uttar Pradesh,Shrawasti,CGWB,2020-08-25,1.15,27.50555556,81.93333333,2
+Mahona,Uttar Pradesh,Sultanpur,CGWB,2020-08-25,1.85,26.53333333,81.58333333,2
+Mahrua gola,Uttar Pradesh,Ambedkar Nagar,CGWB,2020-08-25,3.37,26.40833333,82.39166667,2
+Mainpura Pz GWD,Uttar Pradesh,Saharanpur,CGWB,2020-08-25,16.52,29.81666667,77.25833333,2
+Makur,Uttar Pradesh,Unnao,CGWB,2020-08-25,1.83,26.65000000,80.63333333,2
+Malka Harhar,Uttar Pradesh,Allahabad,CGWB,2020-08-25,15.69,25.53500000,81.81666667,2
+Mallhan,Uttar Pradesh,Praygraj,CGWB,2020-08-25,3.32,25.61111111,82.09722222,2
+Maniari aliganj,Uttar Pradesh,Sultanpur,CGWB,2020-08-25,1.1,26.33000000,81.87666667,2
+Manihar,Uttar Pradesh,Ballia,CGWB,2020-08-25,2.58,25.81250000,84.16805556,2
+Manikpur,Uttar Pradesh,Chitrakoot,CGWB,2020-08-25,0.8,25.06666667,81.10000000,2
+Manjila,Uttar Pradesh,Hardoi,CGWB,2020-08-25,2.74,27.26944444,80.07500000,2
+Mankapur,Uttar Pradesh,Gonda,CGWB,2020-08-25,2.34,27.03333333,82.25000000,2
+Mardah,Uttar Pradesh,Ghazipur,CGWB,2020-08-25,0.25,25.81111111,83.57777778,2
+Mardanpur,Uttar Pradesh,Sultanpur,CGWB,2020-08-25,1.57,26.56250000,81.61666667,2
+Masauli chaurah,Uttar Pradesh,Barabanki,CGWB,2020-08-25,3.26,26.98333333,81.29833333,2
+Matrwa,Uttar Pradesh,Raibareli,CGWB,2020-08-25,0.77,26.34583333,81.44277778,2
+Mau,Uttar Pradesh,Chitrakoot,CGWB,2020-08-25,14.24,25.26944444,81.37500000,2
+Mau-Aima,Uttar Pradesh,Allahabad,CGWB,2020-08-25,2.86,25.70333333,81.91500000,2
+Mau garbi,Uttar Pradesh,Raibareli,CGWB,2020-08-25,0.7,26.42138889,81.36055556,2
+Maurawan,Uttar Pradesh,Unnao,CGWB,2020-08-25,8.64,26.43888889,80.88333333,2
+Mau (Urban),Uttar Pradesh,Mau,CGWB,2020-08-25,0.23,25.94166667,83.57500000,2
+Meja,Uttar Pradesh,Praygraj,CGWB,2020-08-25,1.49,25.14166667,82.10000000,2
+Meja road,Uttar Pradesh,Praygraj,CGWB,2020-08-25,12.87,25.25000000,82.03000000,2
+Methi Tikur,Uttar Pradesh,Unnao,CGWB,2020-08-25,2.32,26.69444444,80.43333333,2
+Mihipurwa,Uttar Pradesh,Bahraich,CGWB,2020-08-25,2.85,28.01583333,81.40055556,2
+Milkipur,Uttar Pradesh,Ayodhya,CGWB,2020-08-25,5.02,26.59666667,81.91083333,2
+Modi Nagar-Pz I,Uttar Pradesh,Firozabad,CGWB,2020-08-25,7.36,28.84722222,77.57500000,2
+Modi Nagar-Pz II,Uttar Pradesh,Firozabad,CGWB,2020-08-25,7.61,28.84722222,77.57500000,2
+Mohammadabad2,Uttar Pradesh,Ghazipur,CGWB,2020-08-25,5.26,25.63333333,83.75138889,2
+Mohand,Uttar Pradesh,Saharanpur,CGWB,2020-08-25,8.82,30.16805556,77.81944444,2
+Mohanganj1,Uttar Pradesh,Raibareli,CGWB,2020-08-25,1.12,26.24166667,81.48083333,2
+Morta Pz GWD,Uttar Pradesh,Ghaziabad,CGWB,2020-08-25,22.58,28.72500000,77.48333333,2
+Motipura,Uttar Pradesh,Kanpur Nagar,CGWB,2020-08-25,3.45,26.42500000,80.41666667,2
+Muhammadpur,Uttar Pradesh,Kanpur Dehat,CGWB,2020-08-25,20.0,26.29583333,79.91250000,2
+Muirpur,Uttar Pradesh,Sonbhadra,CGWB,2020-08-25,2.18,24.11666667,83.05500000,2
+Mukera,Uttar Pradesh,Banda,CGWB,2020-08-25,5.06,25.12694444,80.39777778,2
+Mundawa,Uttar Pradesh,Sultanpur,CGWB,2020-08-25,1.6,26.28583333,81.96944444,2
+Munshiganj,Uttar Pradesh,Lucknow,CGWB,2020-08-25,3.11,26.74944444,81.15500000,2
+Munshiganj1,Uttar Pradesh,Sultanpur,CGWB,2020-08-25,2.1,26.21250000,81.81250000,2
+Musafirkhana,Uttar Pradesh,Sultanpur,CGWB,2020-08-25,1.35,26.37916667,81.79583333,2
+Musfha,Uttar Pradesh,Fatehpur,CGWB,2020-08-25,6.74,26.15000000,80.42333333,2
+Naghipur bajhan,Uttar Pradesh,Sultanpur,CGWB,2020-08-25,1.31,26.34861111,82.23055556,2
+Nagram,Uttar Pradesh,Lucknow,CGWB,2020-08-25,0.42,26.63333333,81.13333333,2
+Naimisharanya-1,Uttar Pradesh,Sitapur,CGWB,2020-08-25,2.06,27.58194444,80.40388889,2
+Naini,Uttar Pradesh,Allahabad,CGWB,2020-08-25,11.26,25.35416667,81.87500000,2
+Nandganj,Uttar Pradesh,Ghazipur,CGWB,2020-08-25,4.67,25.54333333,83.67833333,2
+Nanpara,Uttar Pradesh,Bahraich,CGWB,2020-08-25,9.15,27.86111111,81.51111111,2
+Naokua,Uttar Pradesh,Ayodhya,CGWB,2020-08-25,0.76,26.71166667,82.04500000,2
+Naraini New,Uttar Pradesh,Banda,CGWB,2020-08-25,0.6,25.19444444,80.48166667,2
+Narmau(new),Uttar Pradesh,Kanpur Nagar,CGWB,2020-08-25,5.96,26.52833333,80.23194444,2
+Nasirabad,Uttar Pradesh,Ballia,CGWB,2020-08-25,4.1,25.75277778,84.10555556,2
+Niwada dhamni,Uttar Pradesh,Kanpur Nagar,CGWB,2020-08-25,7.62,26.70000000,80.12833333,2
+Nizamabad,Uttar Pradesh,Azamgarh,CGWB,2020-08-25,0.86,26.05416667,83.06388889,2
+Orulari,Uttar Pradesh,Ghazipur,CGWB,2020-08-25,1.07,25.75416667,83.47083333,2
+Pachperwa,Uttar Pradesh,Balrampur,CGWB,2020-08-25,0.0,27.52166667,82.66666667,2
+Pahari buzurg New,Uttar Pradesh,Chitrakoot,CGWB,2020-08-25,3.62,25.33722222,80.96527778,2
+Pakaria,Uttar Pradesh,Shrawasti,CGWB,2020-08-25,1.7,27.69722222,81.71250000,2
+Paldi Pz GWD,Uttar Pradesh,Muzaffarnagar,CGWB,2020-08-25,19.27,29.35000000,77.54166667,2
+Pali1,Uttar Pradesh,Sant Ravidas Nagar,CGWB,2020-08-25,2.13,25.37916667,82.42500000,2
+Pangara,Uttar Pradesh,Banda,CGWB,2020-08-25,0.53,25.19833333,80.49583333,2
+Parikshat Garh Pz,Uttar Pradesh,Meerut,CGWB,2020-08-25,9.61,28.97777778,77.93611111,2
+Parsa gondri,Uttar Pradesh,Gonda,CGWB,2020-08-25,1.75,27.12222222,81.80500000,2
+Pasgawan,Uttar Pradesh,Kheri,CGWB,2020-08-25,2.55,27.81027778,80.16916667,2
+Pasna,Uttar Pradesh,Allahabad,CGWB,2020-08-25,0.84,25.04583333,82.10000000,2
+Phaphund,Uttar Pradesh,Auraiya,CGWB,2020-08-25,5.41,26.58333333,79.47083333,2
+Phulpur,Uttar Pradesh,Azamgarh,CGWB,2020-08-25,3.12,26.09166667,82.86666667,2
+Phulpur2,Uttar Pradesh,Praygraj,CGWB,2020-08-25,3.95,25.55277778,82.09166667,2
+Pihani,Uttar Pradesh,Hardoi,CGWB,2020-08-25,2.17,27.62500000,80.19444444,2
+Piparpur,Uttar Pradesh,Sultanpur,CGWB,2020-08-25,4.53,26.14333333,82.03333333,2
+Pratap Pur Kamaicha (PZ GWD),Uttar Pradesh,Sultanpur,CGWB,2020-08-25,7.77,26.07138889,82.30277778,2
+Pratapur,Uttar Pradesh,Shrawasti,CGWB,2020-08-25,1.24,27.86194444,81.76916667,2
+Pratushmanik,Uttar Pradesh,Sultanpur,CGWB,2020-08-25,0.6,26.23333333,81.91000000,2
+Pur,Uttar Pradesh,Ballia,CGWB,2020-08-25,1.46,25.95138889,84.00833333,2
+Purwa amarsingh,Uttar Pradesh,Barabanki,CGWB,2020-08-25,1.32,27.13611111,81.39444444,2
+Purwara gosai,Uttar Pradesh,Sitapur,CGWB,2020-08-25,2.42,27.34500000,81.16833333,2
+Pyrepur,Uttar Pradesh,Ghazipur,CGWB,2020-08-25,1.03,25.67500000,83.24166667,2
+Pz GWD Ajitmal,Uttar Pradesh,Auraiya,CGWB,2020-08-25,19.69,26.57500000,79.31666667,2
+RAHIMABAD,Uttar Pradesh,Lucknow,CGWB,2020-08-25,5.55,26.97083333,80.60000000,2
+Raipura,Uttar Pradesh,Chitrakoot,CGWB,2020-08-25,6.67,25.22833333,81.15000000,2
+Ramgarh1,Uttar Pradesh,Sultanpur,CGWB,2020-08-25,0.66,26.13888889,82.12500000,2
+Ramnagar,Uttar Pradesh,Barabanki,CGWB,2020-08-25,7.74,27.08222222,81.41833333,2
+Ramnagara,Uttar Pradesh,Siddharth Nagar,CGWB,2020-08-25,1.37,27.42500000,82.77500000,2
+Rampur Mathura Pz-GWD,Uttar Pradesh,Sitapur,CGWB,2020-08-25,2.02,27.34888889,81.34583333,2
+Rampur tulapur,Uttar Pradesh,Allahabad,CGWB,2020-08-25,2.77,25.03750000,82.20000000,2
+Ramsari,Uttar Pradesh,Kanpur Nagar,CGWB,2020-08-25,4.54,26.18555556,80.20472222,2
+Rani katra,Uttar Pradesh,Barabanki,CGWB,2020-08-25,4.95,26.97555556,81.52611111,2
+Rasauli,Uttar Pradesh,Barabanki,CGWB,2020-08-25,0.52,26.92555556,81.25416667,2
+Ratanpur,Uttar Pradesh,Shrawasti,CGWB,2020-08-25,1.45,27.80277778,81.96527778,2
+Ratanpura,Uttar Pradesh,Mau,CGWB,2020-08-25,1.45,25.91666667,83.75000000,2
+Rawalpur,Uttar Pradesh,Raibareli,CGWB,2020-08-25,7.16,26.05833333,80.85277778,2
+Razichauraha,Uttar Pradesh,Bahraich,CGWB,2020-08-25,0.82,27.41111111,81.37833333,2
+Rehman Khera,Uttar Pradesh,Lucknow,CGWB,2020-08-25,9.16,26.88888889,80.76250000,2
+Rehrabazar PZ(GWD),Uttar Pradesh,Balrampur,CGWB,2020-08-25,1.17,27.18194444,82.27888889,2
+Rehta,Uttar Pradesh,Lucknow,CGWB,2020-08-25,8.2,27.04166667,80.65833333,2
+Renukoot,Uttar Pradesh,Sonbhadra,CGWB,2020-08-25,7.87,24.22083333,83.04777778,2
+Rewati,Uttar Pradesh,Ballia,CGWB,2020-08-25,0.52,25.84555556,84.37888889,2
+Robertsganj1,Uttar Pradesh,Sonbhadra,CGWB,2020-08-25,1.64,24.69166667,83.06666667,2
+Roli kalyanpur,Uttar Pradesh,Banda,CGWB,2020-08-25,8.83,25.22000000,80.74500000,2
+Roura,Uttar Pradesh,Kanpur Dehat,CGWB,2020-08-25,5.85,26.48055556,79.90333333,2
+Rustampur,Uttar Pradesh,Varanasi,CGWB,2020-08-25,5.58,25.39500000,83.07500000,2
+Sablapur,Uttar Pradesh,Bahraich,CGWB,2020-08-25,1.93,27.71944444,81.37916667,2
+Sachendi,Uttar Pradesh,Kanpur Nagar,CGWB,2020-08-25,1.95,26.42916667,80.16666667,2
+Sadikapur,Uttar Pradesh,Ghazipur,CGWB,2020-08-25,0.9,25.63000000,83.64583333,2
+Sagardeh,Uttar Pradesh,Sultanpur,CGWB,2020-08-25,10.75,26.03194444,82.41250000,2
+Sageri,Uttar Pradesh,Azamgarh,CGWB,2020-08-25,1.35,26.15000000,83.30000000,2
+Sahar,Uttar Pradesh,Auraiya,CGWB,2020-08-25,1.22,26.75000000,79.60666667,2
+Sahayal,Uttar Pradesh,Auraiya,CGWB,2020-08-25,6.86,26.67916667,79.63472222,2
+Saidpur 1,Uttar Pradesh,Ghazipur,CGWB,2020-08-25,7.2,25.53888889,83.18750000,2
+Sakhupura,Uttar Pradesh,Ayodhya,CGWB,2020-08-25,0.7,26.70333333,82.07166667,2
+Sakoti Tanda  Pz,Uttar Pradesh,Meerut,CGWB,2020-08-25,7.91,29.17500000,77.73333333,2
+Sanda,Uttar Pradesh,Sitapur,CGWB,2020-08-25,2.22,27.54694444,81.03611111,2
+Sandila (GWD PZ),Uttar Pradesh,Hardoi,CGWB,2020-08-25,3.49,27.05222222,80.52638889,2
+Saraimir,Uttar Pradesh,Azamgarh,CGWB,2020-08-25,2.38,26.01666667,82.93194444,2
+Sarain bakewar,Uttar Pradesh,Fatehpur,CGWB,2020-08-25,3.47,26.11944444,80.48333333,2
+Sarai Rasi,Uttar Pradesh,Ayodhya,CGWB,2020-08-25,5.62,26.71305556,82.24833333,2
+Saraon,Uttar Pradesh,Allahabad,CGWB,2020-08-25,3.28,25.27000000,81.84166667,2
+Sarh,Uttar Pradesh,Kanpur Nagar,CGWB,2020-08-25,0.53,26.23611111,80.35000000,2
+Sathin,Uttar Pradesh,Sultanpur,CGWB,2020-08-25,13.33,26.52916667,81.66944444,2
+Semri1,Uttar Pradesh,Balrampur,CGWB,2020-08-25,1.66,27.37916667,82.53888889,2
+Shahganj,Uttar Pradesh,Sonbhadra,CGWB,2020-08-25,1.03,24.70833333,82.95000000,2
+Shakhambari,Uttar Pradesh,Saharanpur,CGWB,2020-08-25,1.98,30.25333333,77.73833333,2
+Shekhwapur,Uttar Pradesh,Sitapur,CGWB,2020-08-25,2.46,27.74722222,80.72944444,2
+Shivgarh,Uttar Pradesh,Sultanpur,CGWB,2020-08-25,2.77,26.10000000,82.12500000,2
+Shohratgarh PZ (GWD),Uttar Pradesh,Siddharth Nagar,CGWB,2020-08-25,0.65,27.38194444,82.95500000,2
+Shrawasti,Uttar Pradesh,Shrawasti,CGWB,2020-08-25,0.98,27.45833333,81.74166667,2
+Sidhauli (GWD PZ ),Uttar Pradesh,Sitapur,CGWB,2020-08-25,7.55,27.27361111,80.83972222,2
+Sidhauna,Uttar Pradesh,Azamgarh,CGWB,2020-08-25,1.66,25.67638889,83.10277778,2
+Sidhaur,Uttar Pradesh,Barabanki,CGWB,2020-08-25,5.4,26.77083333,81.40833333,2
+Sikanderpur1,Uttar Pradesh,Unnao,CGWB,2020-08-25,13.53,26.55555556,80.40416667,2
+Sikandra1,Uttar Pradesh,Praygraj,CGWB,2020-08-25,10.91,25.58333333,81.97361111,2
+Simrauta,Uttar Pradesh,Raibareli,CGWB,2020-08-25,2.37,26.46527778,81.41944444,2
+Sipahia village,Uttar Pradesh,Balrampur,CGWB,2020-08-25,1.52,27.59444444,82.33611111,2
+Sisauli,Uttar Pradesh,Meerut,CGWB,2020-08-25,22.93,28.92000000,77.80833333,2
+Son barsa,Uttar Pradesh,Sonbhadra,CGWB,2020-08-25,1.32,24.83333333,82.93333333,2
+Sridutganj1,Uttar Pradesh,Balrampur,CGWB,2020-08-25,0.53,27.35444444,82.35611111,2
+Sukratal,Uttar Pradesh,Muzaffarnagar,CGWB,2020-08-25,2.4,29.49500000,77.99000000,2
+Sultanpur2,Uttar Pradesh,Sultanpur,CGWB,2020-08-25,11.5,26.25833333,82.08333333,2
+Sunderpur1,Uttar Pradesh,Saharanpur,CGWB,2020-08-25,6.49,30.13333333,77.85500000,2
+Sundhia mau,Uttar Pradesh,Barabanki,CGWB,2020-08-25,4.89,27.12500000,81.29833333,2
+Suriyawan,Uttar Pradesh,Bhadohi,CGWB,2020-08-25,4.59,25.45833333,82.42000000,2
+Sursa (GWD PZ),Uttar Pradesh,Hardoi,CGWB,2020-08-25,3.66,27.29694444,80.11861111,2
+Tapri godh,Uttar Pradesh,Bahraich,CGWB,2020-08-25,2.58,28.00611111,81.26111111,2
+Tarabganj PZ (GWD),Uttar Pradesh,Gonda,CGWB,2020-08-25,1.89,26.95583333,81.99055556,2
+Tediaon (GWD PZ),Uttar Pradesh,Hardoi,CGWB,2020-08-25,1.83,27.43833333,80.24027778,2
+Teiya1,Uttar Pradesh,Mahoba,CGWB,2020-08-25,5.57,25.31444444,79.35500000,2
+Tejkishan Khera,Uttar Pradesh,Lucknow,CGWB,2020-08-25,2.55,26.79583333,80.73472222,2
+Terha,Uttar Pradesh,Hamirpur,CGWB,2020-08-25,15.59,25.82916667,80.24861111,2
+Tikaitnagar,Uttar Pradesh,Barabanki,CGWB,2020-08-25,2.92,26.93916667,81.56916667,2
+Tikrol Pz GWD,Uttar Pradesh,Saharanpur,CGWB,2020-08-25,7.99,29.73333333,77.37500000,2
+Tilhari Buzurg,Uttar Pradesh,Saharanpur,CGWB,2020-08-25,10.38,29.85833333,77.63333333,2
+Timikia Kothi Pz I,Uttar Pradesh,Meerut,CGWB,2020-08-25,9.08,28.95833333,77.55000000,2
+Timikia Kothi Pz II,Uttar Pradesh,Meerut,CGWB,2020-08-25,9.13,28.95833333,77.55000000,2
+Timikia Kothi Pz III,Uttar Pradesh,Meerut,CGWB,2020-08-25,9.08,28.95833333,77.55000000,2
+Tindwari,Uttar Pradesh,Banda,CGWB,2020-08-25,6.04,25.62083333,80.51944444,2
+Tonda,Uttar Pradesh,Unnao,CGWB,2020-08-25,0.21,26.86388889,80.60138889,2
+Trisundi,Uttar Pradesh,Sultanpur,CGWB,2020-08-25,2.05,26.09111111,82.03500000,2
+Trivediganj,Uttar Pradesh,Barabanki,CGWB,2020-08-25,0.86,26.63750000,81.30833333,2
+Tulsipur2,Uttar Pradesh,Shrawasti,CGWB,2020-08-25,3.13,27.68333333,81.70555556,2
+Ubhavan,Uttar Pradesh,Ballia,CGWB,2020-08-25,1.75,26.12333333,83.87166667,2
+Unchagaon1,Uttar Pradesh,Unnao,CGWB,2020-08-25,2.71,26.17916667,80.70416667,2
+Un Pz,Uttar Pradesh,Muzaffarnagar,CGWB,2020-08-25,6.67,29.58666667,77.16666667,2
+Uska,Uttar Pradesh,Siddharth Nagar,CGWB,2020-08-25,1.55,27.19166667,83.12500000,2
+Utraula,Uttar Pradesh,Balrampur,CGWB,2020-08-25,1.36,27.41666667,82.16666667,2
+Varanasi,Uttar Pradesh,Varanasi,CGWB,2020-08-25,6.0,25.30000000,82.95000000,2
+Vikasnagar,Uttar Pradesh,Lucknow,CGWB,2020-08-25,39.92,26.89444444,80.96111111,2

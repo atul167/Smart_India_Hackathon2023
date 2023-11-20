@@ -1,0 +1,43 @@
+Station_name,State,District,Agency_name,Date,level,lat,long,Telemetry
+Ajaipur,Uttar Pradesh,Ghazipur,CGWB,2018-11-27,2.53,25.45555556,83.73055556,2
+Asogapur,Uttar Pradesh,Kheri,CGWB,2018-11-27,2.1,27.89166667,80.95000000,2
+Bahoranpur,Uttar Pradesh,Sitapur,CGWB,2018-11-27,3.27,27.37194444,81.23194444,2
+Bairadih,Uttar Pradesh,Azamgarh,CGWB,2018-11-27,6.78,25.94305556,82.98750000,2
+Baresar,Uttar Pradesh,Ghazipur,CGWB,2018-11-27,9.74,25.39166667,83.56666667,2
+Bhimapur,Uttar Pradesh,Ghazipur,CGWB,2018-11-27,5.16,25.62000000,83.20833333,2
+Biutmani,Uttar Pradesh,Sitapur,CGWB,2018-11-27,2.63,27.55500000,80.95333333,2
+Chamlapur,Uttar Pradesh,Kheri,CGWB,2018-11-27,0.79,27.91333333,80.88333333,2
+Chandan chowki,Uttar Pradesh,Kheri,CGWB,2018-11-27,3.13,28.52777778,80.76250000,2
+Chauapur,Uttar Pradesh,Kheri,CGWB,2018-11-27,1.67,27.98333333,80.90000000,2
+Deokalia,Uttar Pradesh,Sitapur,CGWB,2018-11-27,6.77,27.44444444,81.02833333,2
+Deoria,Uttar Pradesh,Ghazipur,CGWB,2018-11-27,2.98,25.48055556,83.57500000,2
+Dhoudhi,Uttar Pradesh,Sitapur,CGWB,2018-11-27,3.25,27.60833333,80.81250000,2
+Dildar nagar,Uttar Pradesh,Ghazipur,CGWB,2018-11-27,2.72,25.45000000,83.66000000,2
+Dudhwa f.r.h.,Uttar Pradesh,Kheri,CGWB,2018-11-27,8.53,28.48888889,80.64944444,2
+Gahmar,Uttar Pradesh,Ghazipur,CGWB,2018-11-27,10.55,25.46944444,83.83611111,2
+Ghazipur church,Uttar Pradesh,Ghazipur,CGWB,2018-11-27,2.26,25.57638889,83.56333333,2
+Ghazipur  Sadar new,Uttar Pradesh,Ghazipur,CGWB,2018-11-27,4.46,25.56750000,83.56000000,2
+Hargaon,Uttar Pradesh,Sitapur,CGWB,2018-11-27,4.63,27.65416667,80.73611111,2
+Jahangirabad,Uttar Pradesh,Sitapur,CGWB,2018-11-27,2.07,27.52083333,81.10500000,2
+Kabirpur,Uttar Pradesh,Ghazipur,CGWB,2018-11-27,5.37,25.80833333,83.55416667,2
+Kachauna (GWD PZ),Uttar Pradesh,Hardoi,CGWB,2018-11-27,4.05,27.15861111,80.34055556,2
+Karauna,Uttar Pradesh,Sitapur,CGWB,2018-11-27,12.23,27.37638889,80.60972222,2
+Karimuddinpur,Uttar Pradesh,Ghazipur,CGWB,2018-11-27,8.56,25.69027778,83.85277778,2
+Kasimabad,Uttar Pradesh,Ghazipur,CGWB,2018-11-27,5.96,25.78194444,83.78194444,2
+Khamaria,Uttar Pradesh,Sitapur,CGWB,2018-11-27,2.25,27.37666667,80.90472222,2
+Mainpur,Uttar Pradesh,Ghazipur,CGWB,2018-11-27,6.14,25.52500000,83.49583333,2
+Manpur chowki,Uttar Pradesh,Sitapur,CGWB,2018-11-27,3.55,27.51388889,80.89027778,2
+Mohammadabad2,Uttar Pradesh,Ghazipur,CGWB,2018-11-27,11.15,25.63333333,83.75138889,2
+Orulari,Uttar Pradesh,Ghazipur,CGWB,2018-11-27,3.49,25.75416667,83.47083333,2
+Phulpur,Uttar Pradesh,Azamgarh,CGWB,2018-11-27,5.8,26.09166667,82.86666667,2
+Purwara gosai,Uttar Pradesh,Sitapur,CGWB,2018-11-27,3.02,27.34500000,81.16833333,2
+Pyrepur,Uttar Pradesh,Ghazipur,CGWB,2018-11-27,6.22,25.67500000,83.24166667,2
+Sadikapur,Uttar Pradesh,Ghazipur,CGWB,2018-11-27,2.14,25.63000000,83.64583333,2
+Sageri,Uttar Pradesh,Azamgarh,CGWB,2018-11-27,5.56,26.15000000,83.30000000,2
+Sandila (GWD PZ),Uttar Pradesh,Hardoi,CGWB,2018-11-27,3.82,27.05222222,80.52638889,2
+Shekhwapur,Uttar Pradesh,Sitapur,CGWB,2018-11-27,2.78,27.74722222,80.72944444,2
+Sidhagarghat,Uttar Pradesh,Ghazipur,CGWB,2018-11-27,5.48,25.84166667,83.72777778,2
+Sidhauli (GWD PZ ),Uttar Pradesh,Sitapur,CGWB,2018-11-27,8.06,27.27361111,80.83972222,2
+Sidhauna,Uttar Pradesh,Azamgarh,CGWB,2018-11-27,3.97,25.67638889,83.10277778,2
+Sursa (GWD PZ),Uttar Pradesh,Hardoi,CGWB,2018-11-27,3.72,27.29694444,80.11861111,2
+Tediaon (GWD PZ),Uttar Pradesh,Hardoi,CGWB,2018-11-27,2.53,27.43833333,80.24027778,2
